@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tanishka Petwal</h1>
 <h3 align="center">Innovative Full-Stack Developer - Crafting Secure & Scalable Solutions</h3>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanishka987" alt="tanishka987" /></a> </p>
 
 - 🔭 I’m currently working on **Real Time Chat Application**
 
@@ -16,7 +17,6 @@
 - ⚡ Fun fact **I’m a fun-loving person who enjoys blending work with play!**
   <img align="right" alt="coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--O0u1bNHs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://miro.medium.com/max/1400/0*PXf5ge7QCN9Ga_CL.gif"/>
   
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanishka987" alt="tanishka987" /></a> </p>
 
 
 <h3 align="left">Connect with me:</h3>
