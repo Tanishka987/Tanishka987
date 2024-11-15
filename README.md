@@ -2,7 +2,7 @@
 <h3 align="center">Innovative Full-Stack Developer - Crafting Secure & Scalable Solutions</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanishka987" alt="tanishka987" /></a> </p>
 
-- 🔭 I’m currently working on **Real Time Chat Application**
+- 🔭 I’m currently working as a **Web Developer** at **Prime Media**.
 
 - 🌱 I’m currently learning **Laravel and Nodejs**
 
